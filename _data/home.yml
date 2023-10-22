@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Climatologies
-    url: https://www.github.com/mdgrossi/climatology
+    url: https://mdgrossi.github.io/climatology
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
