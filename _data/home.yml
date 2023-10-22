@@ -11,11 +11,11 @@ navbar_entries:
 project_entries:
   - title: Climatologies
     url: https://mdgrossi.github.io/climatology
-    desc: This is an example project, configured in _data/home.yml
+    desc: Local climatologies derived from NOAA CO-OPS weather and tide data
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Docker Demonstrations
+    url: https://mdgrossi.github.io/docker-demos
+    desc: Simple demonstration of containerization using Docker
 
   - title: Project 3
     url: overview-post
