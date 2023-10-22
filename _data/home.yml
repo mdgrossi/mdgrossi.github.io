@@ -17,10 +17,10 @@ project_entries:
     url: https://mdgrossi.github.io/docker-demos
     desc: Simple demonstration of containerization using Docker
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
+  - title: Code Samples
+    url: https://mdgrossi.github.io/code-samples
+    desc: Sample programming scripts and other technical capabilities to demonstrate proficiencies in such areas as data processing, data management, and teaching. 
+    
   - title: Project 4
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
