@@ -54,17 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/matthewgrossi
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/mdgrossi
 
-  - title: feed
-    url: feed.xml
+  - title: ORCID
+    url: https://orcid.org/0000-0002-8550-3189
 
 misc_entries:
   - title: this is an example vertical list
@@ -83,11 +80,6 @@ misc_entries:
   - title: moonwalk on the Internet
     url: false
     entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
