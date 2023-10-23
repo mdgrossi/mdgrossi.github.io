@@ -13,7 +13,7 @@ project_entries:
     url: https://mdgrossi.github.io/climatology
     desc: Local climatologies derived from NOAA CO-OPS weather and tide data
 
-  - title: Docker Demonstrations
+  - title: Docker Demo
     url: https://mdgrossi.github.io/docker-demos
     desc: Simple demonstration of containerization using Docker
 
