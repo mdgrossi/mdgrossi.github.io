@@ -1,9 +1,9 @@
 navbar_entries:
-  - title: CV
-    url: about
-
   - title: Climatology
     url: https://mdgrossi.github.io/climatologyweb
+
+  - title: CV
+    url: about
 
 project_entries:
   - title: Climatologies
