@@ -1,6 +1,7 @@
 name: Render and deploy quarto files
 on:
   push:
+    branches: main
   pull_request:
 
 jobs:
