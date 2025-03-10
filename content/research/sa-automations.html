@@ -6,12 +6,20 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="M.J. Oliver">
+<meta name="author" content="S.Y. Alaba">
+<meta name="author" content="J.E. Ball">
+<meta name="author" content="R. Caillouet">
+<meta name="author" content="M.D.&nbsp;Campbell">
 <meta name="author" content="M.D.&nbsp;Grossi">
-<meta name="author" content="E.F. Geiger">
-<meta name="description" content="R&amp;D at the NOAA Southeast Fisheries Science Center to improve data processing efficiency   2023-present">
+<meta name="author" content="R. Moorhead">
+<meta name="author" content="M.M. Nabi">
+<meta name="author" content="J. Prior">
+<meta name="author" content="C. Shah">
+<meta name="author" content="F. Wallace">
+<meta name="author" content="…and others">
+<meta name="description" content="Improving efficiency of identifying, tracking, and ageing fish from video and imagery   2023-present">
 
-<title>Automating fish ID, tracking, and ageing using machine learning – Matt Grossi</title>
+<title>Advancing Innovative Data Processing Techniques by Leveraging AI and ML Technologies – Matt Grossi</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -136,25 +144,49 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Automating fish ID, tracking, and ageing using machine learning</h1>
+<h1 class="title">Advancing Innovative Data Processing Techniques by Leveraging AI and ML Technologies</h1>
 </div>
 
 <div>
   <div class="description">
-    R&amp;D at the NOAA Southeast Fisheries Science Center to improve data processing efficiency <br> 2023-present
+    Improving efficiency of identifying, tracking, and ageing fish from video and imagery <br> 2023-present
   </div>
 </div>
 
 <div class="quarto-title-meta-author column-page">
   <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">M.J. Oliver </p>
+    <p class="author">S.Y. Alaba </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            University of Delaware
+            Mississippi State University
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">J.E. Ball </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Mississippi State University
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">R. Caillouet </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            NOAA Southeast Fisheries Science Center
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">M.D.&nbsp;Campbell </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            NOAA Southeast Fisheries Science Center
           </p>
       </div>
     <div class="quarto-title-meta-contents">
@@ -162,16 +194,53 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            University of Delaware
+            NOAA Southeast Fisheries Science Center
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">E.F. Geiger </p>
+    <p class="author">R. Moorhead </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            University of Delaware
+            Mississippi State University
           </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">M.M. Nabi </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Mississippi State University
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">J. Prior </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            NOAA Southeast Fisheries Science Center
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">C. Shah </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Mississippi State University
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">F. Wallace </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            NOAA Southeast Fisheries Science Center
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">…and others </p>
+  </div>
+  <div class="quarto-title-meta-contents">
       </div>
   </div>
 
@@ -187,8 +256,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../images/VIAME_screenshot.png" class="img-fluid figure-img" alt="Screenshot of automatic species detection in action."></p>
+<figcaption>Screenshot of automatic species detection and classification in action, with bounding boxes showing fish found within the image and label indicating the most probable species name and uncertainty. Image courtesy of J. Prior.</figcaption>
+</figure>
+</div>
+<hr>
+<p>Artificial intelligence (AI), machine learning (ML), and deep learning (DL) research and development has rapidly accelerated in recent years throughout NOAA. At the NOAA Fisheries Southeast Fisheries Science Center (SEFSC), innovative ML-based automations have been developed for <a href="https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared" target="_blank">ageing fish</a> (<em>e.g.</em>, red snapper, Atlantic menhaden), <a href="https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence" target="_blank">species identification, and tracking</a> reef fish in underwater survey videos. Fish age is the fundamental parameter used for estimating growth, longevity, mortality, maturity, and reproductive output of specific species stock, while species counts provide estimates of abundance and diversity. All of this information gets feds into stock assessment models to enable science-based fisheries management. These automations have been developed by academic partners at the University of Washington and Mississippi State University in collaboration with SEFSC staff, with the goal of increasing the Center’s capacity to process data and the efficiency with which the Center is able to fulfill its mission of providing the scientific advice and data needed to effectively manage the living marine resources of the Southeast Region and Atlantic High Seas.</p>
+<section id="conference-proceedings" class="level3">
+<h3 class="anchored" data-anchor-id="conference-proceedings">Conference Proceedings</h3>
+<ol type="1">
+<li><p>Simegnew Yihunie Alaba, Jack H. Prior, Chiranjibi Shah, M. M. Nabi, John E. Ball, Robert Moorhead, Matthew D. Campbell, Farron Wallace, and <strong>Matthew D. Grossi</strong> “Multifish tracking for marine biodiversity monitoring”, Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610E (6 June 2024); https://doi.org/10.1117/12.3013503</p></li>
+<li><p>Chiranjibi Shah, M. M. Nabi, Simegnew Yihunie Alaba, Ryan Caillouet, Jack Prior, Matthew Campbell, <strong>Matthew D. Grossi</strong>, Farron Wallace, John E. Ball, and Robert Moorhead “Active detection for fish species recognition in underwater environments”, Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610D (6 June 2024); https://doi.org/10.1117/12.3013344</p></li>
+</ol>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
