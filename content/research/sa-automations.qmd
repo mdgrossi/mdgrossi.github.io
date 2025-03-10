@@ -1,0 +1,23 @@
+---
+title: "Automating fish ID, tracking, and ageing using machine learning"
+description: R&D at the NOAA Southeast Fisheries Science Center to improve data processing efficiency <br> 2023-present
+image: "https://www.hatcheryinternational.com/wp-content/uploads/2023/04/PAS.jpg"
+author:
+  - name: M.J. Oliver
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: M.D. Grossi
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: E.F. Geiger
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+order: 6
+toc: False
+---
