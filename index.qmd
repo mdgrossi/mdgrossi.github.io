@@ -1,14 +1,14 @@
 ---
-title: "Matt Grossi"
+title: "Matthew Grossi, Ph.D."
 about:
   template: jolla
   image: images/me.jpg
   links:
     - text: "{{< iconify fxemoji email >}} Email"
-      href: "mailto:matt.grossi@noaa.gov"
+      href: "mailto:kb1lmq@gmail.com"
     - icon: github
       text: GitHub
-      href: https://github.com/MattGrossi-NOAA
+      href: https://github.com/mdgrossi
     - text: "{{< iconify skill-icons linkedin >}} LinkedIn"
       href: https://www.linkedin.com/in/matthewgrossi
     - text: "{{< ai orcid >}} ORCID"
