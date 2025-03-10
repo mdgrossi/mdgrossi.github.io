@@ -1,23 +1,71 @@
 ---
-title: "Automating fish ID, tracking, and ageing using machine learning"
-description: R&D at the NOAA Southeast Fisheries Science Center to improve data processing efficiency <br> 2023-present
-image: "https://www.hatcheryinternational.com/wp-content/uploads/2023/04/PAS.jpg"
+title: "Advancing Innovative Data Processing Techniques by Leveraging AI and ML Technologies"
+description: Improving efficiency of identifying, tracking, and ageing fish from video and imagery <br> 2023-present
+image: "../../images/VIAME_screenshot.png"
 author:
-  - name: M.J. Oliver
+  - name: S.Y. Alaba
     affiliations:
-      - name: University of Delaware
-        city: Lewes
-        state: DE
+        - name: Mississippi State University
+          city: Starkville
+          state: MS    
+  - name: J.E. Ball
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: R. Caillouet
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
+  - name: M.D. Campbell
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
   - name: M.D. Grossi
     affiliations:
-      - name: University of Delaware
-        city: Lewes
-        state: DE
-  - name: E.F. Geiger
+        - name: NOAA Southeast Fisheries Science Center
+          city: Beaufort
+          state: NC
+  - name: R. Moorhead
     affiliations:
-      - name: University of Delaware
-        city: Lewes
-        state: DE
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: M.M. Nabi
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS  
+  - name: J. Prior
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Pascagoula
+          state: MS
+  - name: C. Shah
+    affiliations:
+        - name: Mississippi State University
+          city: Starkville
+          state: MS
+  - name: F. Wallace
+    affiliations:
+        - name: NOAA Southeast Fisheries Science Center
+          city: Galveston
+          state: TX
+  - name: ...and others
 order: 6
 toc: False
 ---
+
+![](../../images/VIAME_screenshot.png)
+
+***
+
+Artificial intelligence (AI), machine learning (ML), and deep learning (DL) research and development has rapidly accelerated in recent years throughout NOAA. At the NOAA Fisheries Southeast Fisheries Science Center (SEFSC), innovative ML-based automations have been developed for [ageing fish](https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared){target="_blank"} (*e.g.*, red snapper, Atlantic menhaden), [species identification, and tracking](https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence){target="_blank"} reef fish in underwater survey videos. Fish age is the fundamental parameter used for estimating growth, longevity, mortality, maturity, and reproductive output of specific species stock, while species counts provide estimates of abundance and diversity. All of this information gets feds into stock assessment models to enable science-based fisheries management. These automations have been developed by academic partners at the University of Washington and Mississippi State University in collaboration with SEFSC staff, with the goal of increasing the Center's capacity to process data and the efficiency with which the Center is able to fulfill its mission of providing the scientific advice and data needed to effectively manage the living marine resources of the Southeast Region and Atlantic High Seas.
+
+### Conference Proceedings
+
+1. Simegnew Yihunie Alaba, Jack H. Prior, Chiranjibi Shah, M. M. Nabi, John E. Ball, Robert Moorhead, Matthew D. Campbell, Farron Wallace, and **Matthew D. Grossi** "Multifish tracking for marine biodiversity monitoring", Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610E (6 June 2024); https://doi.org/10.1117/12.3013503
+
+2. Chiranjibi Shah, M. M. Nabi, Simegnew Yihunie Alaba, Ryan Caillouet, Jack Prior, Matthew Campbell, **Matthew D. Grossi**, Farron Wallace, John E. Ball, and Robert Moorhead "Active detection for fish species recognition in underwater environments", Proc. SPIE 13061, Ocean Sensing and Monitoring XVI, 130610D (6 June 2024); https://doi.org/10.1117/12.3013344
