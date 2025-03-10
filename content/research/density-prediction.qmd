@@ -1,7 +1,8 @@
 ---
 title: "Predicting three-dimensional ocean density structure from remotely sensed surface observations"
 description: Master's thesis research at the University of Delaware under the advisory and mentorship of Dr. Matt Oliver <br> 2008-2010
-image: "../../images/watercolumn.jpg"
+image: "https://images.unsplash.com/photo-1530053969600-caed2596d242?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image-alt: "Underwater photo of the ocean surface."
 author:
   - name: M.D. Grossi
     affiliations:
@@ -36,7 +37,7 @@ order: 3
 toc: False
 ---
 
-![](../../images/watercolumn.jpg)
+![Photo by [Cristian Palmer](https://unsplash.com/@cristianpalmer) on [Unsplash](https://unsplash.com/).](https://images.unsplash.com/photo-1530053969600-caed2596d242?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){fig-alt="Underwater photo of the ocean surface."}
 
 ***
 

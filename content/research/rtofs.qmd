@@ -2,6 +2,7 @@
 title: "Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters"
 description: "Undergraduate research: continuation of a Marine Field Projects summer interdisciplinary cruise research project <br> 2007-2008"
 image: "../../images/gulfstreameagle.jpg"
+image-alt: "Photo of the R/V Gulf Stream Eagle."
 author:
   - name: M.E. Splitt
     affiliations:
@@ -17,7 +18,7 @@ order: 1
 toc: False
 ---
 
-![Photo by E. Gonzalez](../../images/gulfstreameagle.jpg)
+![R/V *Gulf Stream Eagle*. Photo of by E. Gonzalez.](../../images/gulfstreameagle.jpg){fig-alt="Photo of the R/V *Gulf Stream Eagle*."}
 
 ***
 

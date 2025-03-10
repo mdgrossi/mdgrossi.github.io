@@ -2,6 +2,7 @@
 title: "Advancing Innovative Data Processing Techniques by Leveraging AI and ML Technologies"
 description: Improving efficiency of identifying, tracking, and ageing fish from video and imagery <br> 2023-present
 image: "../../images/VIAME_screenshot.png"
+image-alt: "Screenshot of automatic species detection in action."
 author:
   - name: S.Y. Alaba
     affiliations:
@@ -58,7 +59,7 @@ order: 6
 toc: False
 ---
 
-![](../../images/VIAME_screenshot.png)
+![Screenshot of automatic species detection and classification in action, with bounding boxes showing fish found within the image and label indicating the most probable species name and uncertainty. Image courtesy of J. Prior.](../../images/VIAME_screenshot.png){fig-alt="Screenshot of automatic species detection in action."}
 
 ***
 
