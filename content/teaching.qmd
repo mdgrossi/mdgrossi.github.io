@@ -1,0 +1,32 @@
+---
+pagetitle: Science Communication
+---
+
+## Teaching
+
+- **Guest Lecturer** | MPO 511/611: Geophysical Fluid Dynamics I (Fall 2018) <br> University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS)
+
+- **Guest Lecturer** | MPO 511/611: Geophysical Fluid Dynamics I (Fall 2019) <br> University of Miami RSMAS
+
+- **Graduate Teaching Assistant** | MSC 112: Introduction to Marine Science Laboratory (Fall 2019) <br> University of Miami RSMAS
+  - Led ten (10) lab sessions that utilized RSMAS research facilities, in-house expertise, and local marine environments and habitats to provide freshmen with a survey of topics in marine science
+
+- **Co-leader (invited)** | Teaching Assistant Training Workshop (Fall 2019) <br> University of Miami RSMAS
+  - Day-long training for new RSMAS Teaching Assistants covering best practices for classroom instruction; fostering professionally appropriate relationships with instructor and students; assessment, grading, and rubrics; and addressing "sticky situations"
+
+- **Graduate Teaching Assistant** | MSC 301: Introduction to Physical Oceanography (Fall 2018) <br> University of Miami RSMAS <br> {{< iconify noto 1st-place-medal >}} TA Excellence Award based on nominations by and feedback from students and course instructor
+  - Developed and led weekly mini-lab sessions to teach programming in **R** for 20 undergraduate upperclassmen with little to no previous coding experience; delivered lectures covering wind-driven ocean circulation, western boundary currents, vorticity, and instability; and facilitated student learning and achievement through supplemental instruction and mentorship via weekly office hours
+
+- **Invited Speaker** | RSMAS Lunch Bytes Seminar Series (Fall 2018) <br> University of Miami RSMAS
+  - "Peeking under the hood of an artificial neural network": talk tailored to students, faculty, and staff inexperienced in -- yet curious about -- machine learning
+
+- **Guest Lecturer (invited)** | MAR 110: Natural Hazards and the Oceans (Fall 2015) <br> University of Massachusetts Dartmouth School for Marine Science and Technology
+  - Topic: Short-term climate variability and the El Niño/Southern Oscillation (ENSO)
+
+## Outreach
+
+I have showcased marine science and ocean observation to school kids of all ages, including high school freshmen from Tabor Academy in Marion, MA; fourth graders from Carney Academy in New Bedford, MA; Horace Mann Middle School in Miami, FL; Miami-Dade Public School kids through a variety of RSMAS outreach events and summer programs; and Miami [Piano Slam](https://www.pianoslam.org/){target="_blank"}. Talks are always catered to the age group, but usually end up focused on autonomous robots and other data collection platforms.
+
+I have also participated in a variety of larger community events such as the [New Bedford Working Waterfront Festival](https://fishingheritagecenter.org/working-waterfront-festival/){target="_blank"} (New Bedford, MA) and University of Delaware [Coast Days](https://www.udel.edu/academics/colleges/ceoe/community/coastday/){target="_blank"} (Lewes, DE).
+
+While I worked at the UMass Dartmouth School for Marine Science and Technology (SMAST), I programmed a simple Slocum glider mission that directed the glider to dive and resurface in the 90,000 gallon SMAST instrument test tank to demonstrate its behavior and bouyancy-driven motion while visitors could watch from the overhead platforms or through the viewing windows on the sides of the tank.

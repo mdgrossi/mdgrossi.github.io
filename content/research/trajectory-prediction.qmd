@@ -1,0 +1,74 @@
+---
+title: "Lagrangian trajectory prediction using machine learning"
+description: Ph.D. dissertation research at the University of Miami under the direction of Dr. Tamay Özgökmen <br> 2016-2021
+image: "../../images/ocean.jpg"
+author:
+  - name: M.D. Grossi
+    affiliations:
+      - name: University of Miami RSMAS
+        city: Key Biscayne
+        state: FL
+  - name: T.M. Özgökmen
+    degrees: Ph.D. &nbsp; &nbsp; (advisor)
+    role: supervision
+    affiliations:
+      - name: University of Miami RSMAS
+        city: Key Biscayne
+        state: FL
+  - name: M. Iskandarani
+    degrees: Ph.D. &ensp; &nbsp; (committee member)
+    affiliations:
+      - name: University of Miami RSMAS
+        city: Key Biscayne
+        state: FL
+  - name: M. Kubat
+    degrees: Ph.D. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (committee member)
+    affiliations:
+      - name: University of Miami
+        city: Coral Gables, FL
+        state: FL
+  - name: P.F.J. Lermusiaux
+    degrees: Ph.D. (committee member)
+    affiliations:
+      - name: Massachusetts Institute of Technology
+        city: Cambridge
+        state: MA
+order: 5
+toc: False
+---
+
+![](../../images/ocean.jpg)
+
+***
+
+The motion of the ocean is chaotic, making it impossible to predict perfectly. This is especially true on time scales of hours to days and space scales less than 10 km. Oceanic motions on these scales are characterized as *submesoscale* and are strongly influenced by vertical motion. The ability to predict submesoscale motion is critical for forecasting the transport of material such as spilled oil, debris, or harmful algal blooms. Yet observing them is difficult because they are not detectable by the vast majority of satellite platforms circling the planet every day, and modeling them accurately with general ocean circulation models (OGCMs) or statistical models requires far finer grid resolution than is humanly or computationally possible. (To capture all ocean dynamics faithfully, one would need to calculate -- or sample -- velocity at an estimated 10^23^ spatial points simultaneously over many time steps, while the highest resolution OGCM on the largest state-of-the-art supercomputer calculates velocity at only 10^9^ spatial points at any given time -- and is extremely expensive to run.)
+
+Modern data driven methods such as machine learning (ML) are built upon the rationale that cause and effect relationships often exist between relevant variables and observed outcomes. Any sailor or mariner, for example, is keenly aware of the relationship between wind speed and sea state. ML models "learn" statistical relationships between available data variables and then use that information to make predictions about new cases not seen during training, often with remarkable accuracy that exceeds human skill or traditional forecasting methods. And while training ML models requires considerable time and computational resources, once trained, they can easily be run in a matter of seconds or minutes.
+
+Inspired by the success of ML in a multitude of other fields as well as its growing popularity in oceanography, this project explored whether observational ocean data, while sparse, contain enough information to train a ML model to predict surface transport. The project had several goals: first, determining the level of complexity of oceanic flows that simple ML algorithms -- namely, artificial or feed-forward neural networks -- could be trained to learn, and how their performance compared to more traditional statistical methods. This involved simulated and modeled particle trajectories. Next, we explored the degree to which these simple models could also learn to predict real observed trajectories using data from hundreds of surface drifters deployed in the northern Gulf of Mexico as part of the [Grand Lagrangian Experiment](http://carthe.org/glad/){target="_blank"} in 2012. Finally, we considered whether more adanced ML models can improve predictive performance by incorporating physics-based intuition.
+
+### {{< iconify noto 1st-place-medal >}} Awards
+- University of Miami Center for Computational Science Graduate Fellow (supported cross-department interdisciplinary research; 2017)
+- [Gulf of Mexico Research Institute](https://gulfresearchinitiative.org/){target="_blank"} (GoMRI) Scholar (also featured a [project write-up](https://gulfresearchinitiative.org/grad-student-grossi-uses-artificial-intelligence-to-map-ocean-flows/){target="_blank"} by the funding agency; 2019)
+
+### Publications
+
+1. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2020) Predicting particle trajectories in oceanic flows using artificial neural networks, *Ocean Modelling* 156(4313):101707 doi:10.1016/j.ocemod.2020.101707.
+
+2. (*under review*) **Grossi, M.D.** *et al.* Drifter prediction paper
+
+### Posters and Presentations
+
+1. **Grossi, M.D.**, T.M. Özgökmen (2018) Can artificial intelligence predict the dispersion of spilled oil?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, New Orleans, LA.
+
+2. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2018) A first glimpse at predicting ocean dispersion using artificial neural networks, University of Miami Center for Computational Sciences Fellows Symposium, Miami, FL.
+
+3. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2018) A first glimpse at predicting ocean dispersion using artificial neural networks, Consortium for Advanced Research on Transport of Hydrocarbon in the Environment Spring All-Hands Meeting, University of Miami, Miami, FL.
+
+4. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2019) Predicting Oil Transport in Oceanic Flows: Are Neural Networks Up to the Task?, Gulf of Mexico Oil Spill and Ecosystem Conference, New Orleans, LA.
+
+4. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2019) Predicting particle trajectories using artificial neural networks, Consortium for Advanced Research on Transport of Hydrocarbon in the Environment Fall All-Hands Meeting, University of Miami, Miami, FL.
+
+5. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2020) Predicting particle trajectories using artificial neural networks, Multidisciplinary University Research Initiative (MURI) Machine Learning for Submesoscale Characterization, Ocean Prediction, and Exploration (SCOPE) project kickoff meeting, Massachusetts Institute of Technology, Cambridge, MA.
+
+6. **Grossi, M.D.**, M. Kubat, T.M. Özgökmen (2020) Can Neural Networks Learn Realistic Ocean Trajectories?, Gulf of Mexico Oil Spill and Ecosystem Science Conference, Tampa, FL.

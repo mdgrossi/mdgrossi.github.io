@@ -1,0 +1,56 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  title: "Matt Grossi"
+  page-footer:
+    background: "#F8F8FF"
+    left: "&copy; 2024, Matthew D. Grossi"
+    right: This page is built with [Quarto](https://quarto.org/).
+      
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Research
+        href: content/research.qmd
+        menu:
+          - text: Evaluation of RTOFS
+            href: content/research/rtofs.qmd
+          - text: NPQ of phytoplankton
+            href: content/research/npq.qmd
+          - text: Density prediction
+            href: content/research/density-prediction.qmd
+          - text: Climate patterns
+            href: content/research/climate-patterns.qmd
+          - text: Trajectory prediction
+            href: content/research/trajectory-prediction.qmd
+      - href: content/talks.qmd
+        text: Talks
+      - href: content/teaching.qmd
+        text: Teaching
+      - href: content/Grossi_mCV.pdf
+        text: CV
+    
+# author:
+#   - name: "Matthew D. Grossi"
+#     email: matt.grossi@noaa.gov
+#     orcid: 0000-0002-8550-3189
+#     git: https://github.com/MattGrossi-NOAA
+#     linkedin: https://www.linkedin.com/in/matthewgrossi
+
+format:
+  html:
+    theme:
+      light: lumen
+      dark: darkly
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

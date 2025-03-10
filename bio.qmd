@@ -1,0 +1,69 @@
+---
+title: Meet Matt <br> (the longer version)
+about:
+  id: hero-heading
+  template: trestles
+  image: images/me.jpg
+  image-width: 75%
+  image-alt: "headshot"
+  
+  links:
+    - text: "{{< iconify fxemoji email >}} Email"
+      href: matt.grossi@noaa.gov
+    - icon: github
+      text: GitHub
+      href: https://github.com/MattGrossi-NOAA
+    - text: "{{< iconify skill-icons linkedin >}} LinkedIn"
+      href: https://www.linkedin.com/in/matthewgrossi
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8550-3189
+    - text: "{{< iconify simple-icons researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Matthew_Grossi2
+---
+
+
+## My Career Path
+
+
+### Inspired by fruit
+
+"Why is the orange going in that direction?"
+
+My interest in oceanography can be traced back to middle school, to a simple eighth grade experiment[^1] measuring the tidal current through the Cape Cod Canal in Bourne, MA. With stopwatch in hand, my classmates and I tossed an orange into the water and waited some distance away for the fruit to float by.
+
+But hailing from a small Connecticut town 50 miles from the ocean, we had no idea that the howling spring wind could make the water appear to be flowing in the direction opposite of the strong tidal flow. To our surprise, the orange did not drift the direction we expected it to that day. (Thank goodness for the scientific method and triplicate replications!) Two decades later, I am still passionate about ocean science and driven by that relentless curiousity that propels scientists. I also still throw things into the water in the name of science, although nowadays they are much fancier and more expensive than citrus fruit.
+
+[^1]: I was fortunate to have had the opportunity to participate in the [JASON Project](https://jason.org/){target="_blank"} in middle school. Founded by oceanographer, researcher, and discoverer of the *Titantic* Dr. Robert Ballard, the JASON Project brings science, technology, engineering, and math into K-12 classrooms to engage and inspire students. This field trip was the culmination of our participation at the end of three years. Long story short: I was inspired.
+
+> *"Why is the orange going in that direction?"* {{< iconify noto thinking-face >}}
+
+### Education and career training
+
+My career started at the [Florida Institute of Technology](https://www.fit.edu){target="_blank"} in Melbourne, FL where I [majored in oceanography](https://catalog.fit.edu/preview_program.php?catoid=18&poid=7286&returnto=1041){target="_blank"} with a concentration in physical oceanography. Not more than two weeks after settling into my new residence hall room, we got hit by the first of what would be several major hurricanes of a record-breaking season. Being stuck on campus during the storm was not a particularly pleasant experience, to say the least, but it did instill in me an appreciation of how intricately connected the ocean and atmosphere systems really are.
+
+I also found myself, as an undergraduate, awed by the summer afternoon thunderstorms that characterize Florida's rainy season. Never before had I been able to observe thunderstorms so clearly from a distance or actually watch cumulonimbus clouds develop under summer convection. In Connecticut, hills and trees obstruct the view of the sky, and the occasional thunderstorms we did receive were usually associated with cold fronts. Experiencing these daily thunderstorms and, paradoxically, the unfortunate situation of being a college freshmen stuck for a week in a 190-square-foot interior dorm room with neither windows nor air conditioning and only a "survival" lunch bag of food from the dining hall inspired me to also minor in meteorology at Florida Tech.
+
+I went on to earn a Master's in [marine studies with a concentration in oceanography](https://catalog.udel.edu/preview_program.php?catoid=88&poid=76342&returnto=27217){target="_blank"} from the [University of Delaware](https://www.udel.edu){target="_blank"} in lovely Lewes, DE. I was priviledged to work for and with [Dr. Matt Oliver](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/faculty/matthew-oliver/){target="_blank"} in his newly formed [Ocean Exploration, Remote Sensing, and Biogeography (ORB) Lab](https://sites.udel.edu/ceoe-moliver/){target="_blank"}. In addition to taking classes, [conducting research](content/research/density-prediction.qmd), and writing a thesis, Matt mentored us to utilize our time in school to develop technical skills because, he explained, "Courses and theses don't get people jobs. Skills do. And you never know what skill set will land you a job." This meant going to sea -- a lot: one week-long research cruise every month for a year. It meant learning how to use oceanographic instruments such as [buoyancy-driven underwater gliders](https://en.wikipedia.org/wiki/Underwater_glider){target="_blank"} and how to write computer code in [R](https://www.r-project.org/){target="_blank"}. It meant helping inaugurate a [Global Visualization Lab](https://www1.udel.edu/udmessenger/vol18no1/stories/research_visualization.html){target="_blank"} and using it for outreach to more than a thousand outside visitors including school kids, local residents, tourists, and elected officials. And it meant attending glider school to be trained in how to prepare, deploy, pilot, and recover autonomous underwater vehicles. Little did I know that this last skill, though unrelated to my thesis research, would later land me my first job.
+
+> *"You never know what skill set will land you a job." ~Matt Oliver*
+
+That first job was in the Ocean Observation Laboratory at the [University of Massachusetts Dartmouth](https://www.umassd.edu){target="_blank"} [School for Marine Science and Technology](https://www.umassd.edu/smast/){target="_blank"}. I was the northern regional technician for the NOAA [IOOS](https://ioos.us/){target="_blank"} [Mid-Atlantic Regional Association Coastal Ocean Observing System](https://maracoos.org/){target="_blank"} (MARACOOS) responsible for maintaining and operating [high-frequency radar sites for measuring ocean currents](https://hfradar.ioos.us/){target="_blank"} and an [ocean glider for coastal observation](https://gliders.ioos.us/){target="_blank"}. I prepped, deployed (i.e., threw in the water), and recovered the glider on science missions off southern New England and retreived and pre-processed data upon returning to the lab.
+
+Several years later I returned to school to pursue a Ph.D. in [Meteorology and Physical Oceanography](https://bulletin.miami.edu/graduate-academic-programs/marine-atmospheric-science/meteorology-physical-oceanography/meteorology-physical-oceanography-phd/#text){target="_blank"} from the [University of Miami](https://welcome.miami.edu){target="blank"} [Rosenstiel School of Marine and Atmospheric Science](https://www.earth.miami.edu/){target="_blank"}. This flagship program nicely tied together my interests in both marine and atmospheric science. Under the direction of [Dr. Tamay Özgökmen](https://people.miami.edu/profile/d6a7a049ff9ddf14b09855e0ec306f12){target="_blank"}, I participated in and was funded by the [Consortium for Advanced Research on Transport of Hydrocarbon in the Environment](http://carthe.org/){target="_blank"}, a team of dozens of top scientists and researchers from around the world seeking to better understand the fate of the oil spilled into the Gulf of Mexico during the 2010 *Deepwater Horizon* oil spill. My [research](/content/research/trajectory-prediction.qmd) involved developing and testing machine learning models for ocean prediction.
+
+### Federal career
+
+After graduation I accepted a federal job with the NOAA [National Centers for Environmental Information](https://www.ncei.noaa.gov/){target="_blank"} (NCEI) to help develop a Data Enterprise for handing data from uncrewed marine systems such as gliders. Incidently, they liked my past experience working with IOOS, gliders, and glider data, as well as my experience exploring machine learning. These skills qualified me for the position. (See the thread?) Among other things, I started developing an end-to-end data pipeline in the Amazon Web Services (AWS) cloud for NCEI to ingest, process, and archive data from [Saildrones](https://www.saildrone.com/){target="_blank"}, an autonomous service vehicle, as the data become available.
+
+Today I am a data scientist with the NOAA [Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center){target="_blank"} located in beautiful Beaufort, NC where I oversee multidisciplinary teams of marine and computer scientists developing innovative artificial intelligence, machine learning, and deep learning models for automating assorted SEFSC mission priorities including [species identification and tracking](https://www.fisheries.noaa.gov/feature-story/increasing-efficiency-video-surveys-artificial-intelligence){target="_blank"}, [fish aging](https://www.fisheries.noaa.gov/feature-story/scientists-identify-more-efficient-means-determine-age-fish-using-ai-and-near-infrared){target="_blank"}, and marine mammal detection from aerial drones. I also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of [FAIR data principles](https://www.go-fair.org/fair-principles/){target="_blank"} (**f**indable, **a**ccessible, **i**nteroperable, **r**eusable) and [open science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries){target="_blank"}, I serve on the SEFSC regional data governance team and participated in the 2024 [NMFS OpenScapes Mentor](https://nmfs-openscapes.github.io/){target="_blank"} program.
+
+## Advice to aspiring oceanographers
+
+### Pre-college
+Work hard in science and math. Learn to communicate well, both written and orally. (Generative AI is great, but don't let it replace your human skills.) Persevere and be passionate. Anyone can become a scientist. And anyone can become an oceanographer. You don't have to grow up in a big city along the water. I certainly did not.
+
+### College/university
+Learn how to write computer code. It doesn't matter what language. Take a class if you can, even if it's not required for your major, and practice, practice, practice! Your academic and (very likely) your professional career will be exponentially better off.
+
+### Undergraduate and graduate school
+Take advantage of any opportunity that comes your way -- and don't be bashful about seeking out opportunities, either. Volunteer in a lab. Help with field work. Go on a cruise -- a research cruise, preferably! And perhaps more importantly, embrace opportunities to learn new skills and get trained in new techniques, even if applicability isn't immediately obvious -- because you never know what skill set will land you a job.

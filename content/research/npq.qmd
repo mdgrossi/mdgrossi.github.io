@@ -1,0 +1,35 @@
+---
+title: "Non-photochemical quenching (NPQ) of phytoplankton in the Mid-Atlantic coastal ocean"
+description: Seagoing project aboard the R/V *Hugh R. Sharp* over the course of 12 months <br> 2008-2009
+image: "../../images/sharp_ctd.jpg"
+author:
+  - name: M.J. Oliver
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: M.D. Grossi
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: E.F. Geiger
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+order: 2
+toc: False
+---
+
+![Photo by M.D. Grossi](../../images/sharp_ctd.jpg)
+
+***
+
+Part of a broader funded project entitled "Mapping photosynthetic quantum yield in the coastal ocean," this work investigated a physiological phenomonon in marine phytoplankton called non-photochemical quenching (NPQ), a means by which phytoplankton protect themselves from too much sunlight. Think natural sunscreen.
+
+The project involved twelve week-long cruises (one per month) along the mid-Atlantic bight from Delaware Bay north along the New Jersey coast. Carried out on the Universitiy of Delaware's [UNOLS](https://www.unols.org/){target="_blank"} research vessel [R/V *Hugh R. Sharp*](https://www.udel.edu/content/dam/udelImages/ceoe/documents/marine-operations/rvSharp-Overview-Jan-2018_long.pdf){target="_blank"}, we sampled continuously for phytoplankton maximum quantum yield using a Fluorescence Induction and Relaxation (FIRe) system, ocean particle size distribution and counts using a Coulter Counter, surface nutrients using a Submersible Ultraviolet Nitrate Analyzer (SUNA), solar irradiance, sea surface temperature, and surface salinity.
+
+### Poster
+
+1. Treible, L.M., E.F. Geiger, **Grossi, M.D.**, M.J. Oliver (2010) The Impact of Wind on Non-Photochemical Quenching in the Mid-Atlantic Coastal Ocean, 2010 Ocean Sciences Meeting, February 22-26, 2010, Portland, OR.

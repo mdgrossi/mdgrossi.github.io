@@ -1,0 +1,32 @@
+---
+title: "Global Climate Patterns: An Overview"
+description: Compilation of introductory summaries of all known climate patterns in order to stimulate further research endeavors <br> 2015-2017
+image: "../../images/earth.jpg"
+author:
+  - name: M.D. Grossi
+    affiliations:
+      - University of Massachusetts Dartmouth
+      - University of Miami
+  - name: M. Monim
+    affiliations: University of Massachusetts Dartmouth
+  - name: A. Gangopadhyay
+    degrees: Ph.D.
+    affiliations:
+      - name: University of Massachusetts Dartmouth
+        city: New Bedford
+        state: MA
+order: 4
+toc: False
+---
+
+![Photo from unsplash.com | The New York Public Library](../../images/earth.jpg)
+
+***
+
+This evolved from a series of class projects in an Ocean Atmosphere Dynamcs class taught by Dr. Avijit Gangopadhyay at the University of Massachusetts Dartmouth in 2015. Student mini-reports were compiled into the first of what we envisioned to be a series of Technical Reports providing short overviews of all known climate patterns.
+
+Additional research and outreach avenues are currently pending funding.
+
+### Technical Report
+
+- **Grossi, M.D.**, M. Monim, A. Gangopadhyay (2017) Global Climate Patterns: An Overview of Arctic Oscillation, Pacific Decadal Oscillation, Pacific/North American Pattern, and El Niño/Southern Oscillation, University of Massachusetts Dartmouth School for Marine Science and Technology Technical Report SMAST-17-0401, doi:10.13140/RG.2.2.34586.44480.

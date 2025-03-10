@@ -1,0 +1,26 @@
+---
+title: "Matt Grossi"
+about:
+  template: jolla
+  image: images/me.jpg
+  links:
+    - text: "{{< iconify fxemoji email >}} Email"
+      href: "mailto:matt.grossi@noaa.gov"
+    - icon: github
+      text: GitHub
+      href: https://github.com/MattGrossi-NOAA
+    - text: "{{< iconify skill-icons linkedin >}} LinkedIn"
+      href: https://www.linkedin.com/in/matthewgrossi
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8550-3189
+    - text: "{{< iconify simple-icons researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Matthew_Grossi2
+# For more icons, see https://iconify.design/
+---
+
+*Physical oceanographer by training. Observational oceanographer by practice. <br> 
+Applied machine learning researcher and data scientist by happenstance.*
+
+***
+
+Matt Grossi is a physical oceanographer with a decade of experience conducting oceanographic research, supporting state-of-the-art regional ocean observation technologies, and participating in field campaigns. His research interests include ocean-atmosphere dynamics, ocean prediction and forecasting, and applying machine learning to ocean data for analysis and exploration.

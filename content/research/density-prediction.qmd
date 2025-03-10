@@ -1,0 +1,55 @@
+---
+title: "Predicting three-dimensional ocean density structure from remotely sensed surface observations"
+description: Master's thesis research at the University of Delaware under the advisory and mentorship of Dr. Matt Oliver <br> 2008-2010
+image: "../../images/watercolumn.jpg"
+author:
+  - name: M.D. Grossi
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: M.J. Oliver
+    degrees: Ph.D. (advisor)
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+  - name: F. Veron
+    degrees: Ph.D. &ensp; &nbsp; (committee member)
+    affiliations:
+      - name: University of Delaware
+        city: Newark
+        state: DE
+  - name: A.J. Irwin
+    degrees: Ph.D. &nbsp; (committee member)
+    affiliations:
+      - name: Mount Allison University
+        city: Sackville
+        state: New Brunswick
+        country: Canada
+  - name: E.F. Geiger
+    affiliations:
+      - name: University of Delaware
+        city: Lewes
+        state: DE
+order: 3
+toc: False
+---
+
+![](../../images/watercolumn.jpg)
+
+***
+
+Ocean thermodynamic structure (temperature, salinity, and density versus depth) is very challenging to measure continuously all throughout the world's ocean. Ships are slow and expensive, human scientists get tired and sea sick, and the ocean is, well, rather large. Several thousand autonomous Argo profiling floats deployed all over the world since the late 1990s have provided unparalleled glimpses below the surface into the deep ocean. Yet compared to the size of the ocean, even these data remain sparse.
+
+On the other hand, satellites orbiting the planet several times a day are able to measure properties such as ocean temperature in considerably higher spatial and temporal resolution. But satellites are optical instruments, meaning they can only "see" as far down into the water column as light can penetrate. In most of the ocean, this is not very far -- a few meters at best, as shown in the photo above. The average depth of the ocean, in contrast, is around 4 kilometers or 4000 meters.
+
+The goal of this project was to develop a way of predicting sparsely sampled subsurface structure using higher resolution satellite data.
+
+### Posters and Presentations
+
+1. **Grossi, M.D.**, E.F. Geiger, A.J. Irwin, F. Veron, M.J. Oliver (2010) Predicting Open Ocean Density Profiles from Satellite Observations, 2010 Ocean Sciences Meeting, February 22-26, 2010, Portland, OR.
+
+2. Oliver, M.J., **M.D. Grossi**, E.F. Geiger (2011) Predicting ocean density profiles using satellite platforms, 2011 NASA Carbon Cycle and Ecosystems Joint Science Workshop, October 3-7, 2011, Washington, D.C.
+
+3. Oliver, M.J., **M.D. Grossi**, E.F. Geiger, A.J. Irwin, F. Veron (2013) Predicting Ocean Density Profiles Using Satellite Platforms, NASA Biodiversity and Ecological Forecasting Team Meeting, April 23-25, 2013, Arlington, VA.

@@ -1,0 +1,32 @@
+---
+title: "Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters"
+description: "Undergraduate research: continuation of a Marine Field Projects summer interdisciplinary cruise research project <br> 2007-2008"
+image: "../../images/gulfstreameagle.jpg"
+author:
+  - name: M.E. Splitt
+    affiliations:
+      - name: Florida Institute of Technology
+        city: Melbourne
+        state: FL
+  - name: M.D. Grossi
+    affiliations:
+      - name: Florida Institute of Technology
+        city: Melbourne
+        state: FL
+order: 1
+toc: False
+---
+
+![Photo by E. Gonzalez](../../images/gulfstreameagle.jpg)
+
+***
+
+This project was the continuation of a series of summer undergraduate Marine Field Projects courses at Florida Tech. A key element of these courses involved students planning and executing a multidisciplinary 4-day/3-night research cruise aboard the R/V *Gulf Stream Eagle*, complete with a comprehensive research proposal, science objectives, and cruise plans. After the completion of the course, I worked with Mr. Michael Splitt, Assistant Professor of Meteorology, to further develop the cruise oceanography project.
+
+The project involved using *in situ* ocean temperature, salinity, and current speed and direction data collected on a June 2007 cruise in the vacinity of the western boundary of the Gulf Stream to validate the Real-Time Ocean Forecast System (RTOFS) for the nearshore Atlantic coastal waters of southeast Florida. We compared RTOFS forecasts to these data and to buoy data from the NOAA [National Data Buoy Center](https://www.ndbc.noaa.gov/){target="_blank"} (NDBC). Insights from these comparisons provided a basis for spatial and temporal bias evaluation of RTOFS during Fall 2007.
+
+### Posters and Presentations
+
+1. **Grossi, M.D.** (2007) Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters, Florida Institute of Technology Department of Maine & Environmental Systems Summer Symposium, Melbourne, FL. (*Both oral and poster presentation*)
+
+2. Splitt, M.E., **M.D. Grossi** (2008) Evaluation of the Real-Time Ocean Forecast System in Florida Atlantic Coastal Waters, 2008 Ocean Sciences Meeting, March 2-7, 2008, Orlando, FL.
