@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-image','listing-image-alt',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-description","listing-image"],
+      searchColumns: ["listing-title","listing-description","listing-image","listing-image-alt"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -215,7 +215,7 @@ window.Quarto = {
 </header>
 
 
-<p>“Just for fun” projects I’ve tinkered with on the side. These are usually created either to learn a new tool or technique or for personal information or edification. Some are more complete than others based on when they were made and what they were used for.</p>
+<p>“Just for fun” projects I’ve tinkered with on the side. These are usually created either to learn a new tool or technique or for personal use or edification. Some are more complete than others based on when they were made and what they were used for.</p>
 
 
 
@@ -226,7 +226,7 @@ window.Quarto = {
 <a href="https://mdgrossi.github.io/climatology" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://github.com/mdgrossi/climatology/blob/main/images/logo.png?raw=true" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://github.com/mdgrossi/climatology/blob/main/images/logo.png?raw=true" class="thumbnail-image card-img" style="height: 150px;" alt="Cartoon image of sun rising over ocean">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -243,7 +243,7 @@ Daily and monthly averages and records of NOAA CO-OPS weather and tide observati
 <a href="https://github.com/mdgrossi/schools" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&amp;w=3444&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&amp;w=3444&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="thumbnail-image card-img" style="height: 150px;" alt="Photo of school books, pencils, and ABC blocks">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -260,7 +260,7 @@ Visualizations of national public school district performances in math and readi
 <a href="https://mdgrossi.github.io/covid19" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://plus.unsplash.com/premium_photo-1683980578016-a1f980719ec2?q=80&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://plus.unsplash.com/premium_photo-1683980578016-a1f980719ec2?q=80&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="thumbnail-image card-img" style="height: 150px;" alt="Cartoon image of bar plot">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -843,7 +843,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2024, Matthew D. Grossi</p>
+<p>© 2025, Matthew D. Grossi</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
