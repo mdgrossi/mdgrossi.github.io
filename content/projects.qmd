@@ -1,0 +1,21 @@
+---
+title: Side Projects
+
+listing:
+  contents:
+    - title: "Local Climatologies and Records"
+      path: "https://mdgrossi.github.io/climatology"
+      description: "Daily and monthly averages and records of NOAA CO-OPS weather and tide observations at different locations to which I have some degree of connection."
+      image: "https://github.com/mdgrossi/climatology/blob/main/images/logo.png?raw=true"
+    - title: "Public School Performance"
+      path: "https://github.com/mdgrossi/schools"
+      description: "Visualizations of national public school district performances in math and reading at different locations of interest."
+      image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=3444&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    - title: "COVID-19 Cases"
+      path: "https://mdgrossi.github.io/covid19"
+      description: "Visualizations of COVID-19 cases in different states of interest. Created early in the pandemic, updated daily, and abandoned when data source went offline."
+      image: "https://plus.unsplash.com/premium_photo-1683980578016-a1f980719ec2?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  type: grid
+---
+
+"Just for fun" projects I've tinkered with on the side. These are usually created either to learn a new tool or technique or for personal information or edification. Some are more complete than others based on when they were made and what they were used for.
