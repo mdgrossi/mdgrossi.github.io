@@ -29,6 +29,15 @@ website:
             href: content/research/climate-patterns.qmd
           - text: Trajectory prediction
             href: content/research/trajectory-prediction.qmd
+      - text: Side Projects
+        href: content/projects.qmd
+        menu:
+          - text: Local Climatologies and Records
+            href: https://mdgrossi.github.io/climatology
+          - text: Public School Performance
+            href: https://github.com/mdgrossi/schools
+          - text: COVID-19 Cases
+            href: https://mdgrossi.github.io/covid19
       - href: content/talks.qmd
         text: Talks
       - href: content/teaching.qmd
