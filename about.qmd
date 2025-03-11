@@ -35,16 +35,16 @@ A longer autobiographical narrative, for the inquisitive mind, can be perused [h
 
 :::: {layout-ncol="3"}
 :::{}
-{{< iconify logos python >}} Python <br>
-{{< iconify logos jupyter >}} Jupyter <br>
-{{< iconify mdi language-r >}} R <br>
+{{< iconify logos python >}} [Python](https://github.com/mdgrossi/code-samples/tree/master/python_examples) <br>
+{{< iconify logos jupyter >}} [Jupyter](https://github.com/mdgrossi/code-samples/blob/master/python_examples/singularSpectrumAnalysis.ipynb) <br>
+{{< iconify mdi language-r >}} [R](https://github.com/mdgrossi/code-samples/tree/master/r_examples) <br>
 {{< iconify devicon rstudio >}} RStudio <br>
 :::
 :::{}
 {{< iconify devicon matlab >}} MATLAB* <br>
-{{< iconify skill-icons docker >}} Docker <br>
-{{< iconify skill-icons latex-dark >}} LaTeX <br>
-{{< iconify mdi github >}} GitHub <br>
+{{< iconify skill-icons docker >}} [Docker](https://github.com/mdgrossi/docker-demos) <br>
+{{< iconify skill-icons latex-dark >}} [LaTeX](https://github.com/mdgrossi/code-samples/tree/master/latex_examples) <br>
+{{< iconify mdi github >}} [GitHub](https://github.com/mdgrossi) <br>
 :::
 :::{}
 - UNIX*
