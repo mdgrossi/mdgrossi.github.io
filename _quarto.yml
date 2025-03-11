@@ -7,9 +7,9 @@ website:
   title: "Matt Grossi"
   page-footer:
     background: "#F8F8FF"
-    left: "&copy; 2024, Matthew D. Grossi"
+    left: "&copy; 2025, Matthew D. Grossi"
     right: This page is built with [Quarto](https://quarto.org/).
-      
+
   navbar:
     left:
       - href: index.qmd
