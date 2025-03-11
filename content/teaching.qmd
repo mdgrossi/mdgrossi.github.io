@@ -4,8 +4,6 @@ pagetitle: Science Communication
 
 ## Teaching
 
-Teaching experience is listed below. Teaching assignment examples I have created and used can be found [here](https://github.com/mdgrossi/code-samples/tree/master/teaching_hw_examples).
-
 - **Guest Lecturer** | MPO 511/611: Geophysical Fluid Dynamics I (Fall 2018) <br> University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS)
 
 - **Guest Lecturer** | MPO 511/611: Geophysical Fluid Dynamics I (Fall 2019) <br> University of Miami RSMAS
