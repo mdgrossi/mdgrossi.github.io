@@ -42,7 +42,7 @@ website:
         text: Talks
       - href: content/teaching.qmd
         text: Teaching
-      - href: resume/GrossiMD-resume.html
+      - href: content/_resume/GrossiMD-resume.html
         text: Resume
       - href: content/Grossi_mCV.pdf
         text: CV
