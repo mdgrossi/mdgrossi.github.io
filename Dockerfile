@@ -10,9 +10,26 @@
 # =============================================================================
 
 # Download and install base Python image
-FROM python:3.12
+FROM --platform=linux/amd64 python:3.11
 
+# Non-root user
+ARG USERNAME=jovyan
+ARG USER_UID=1000
+ARG USER_GID=$USER_UID
+
+# Create the user
+RUN groupadd --gid $USER_GID $USERNAME \
+    && useradd --uid $USER_UID --gid $USER_GID -m $USERNAME \
+    #
+    # [Optional] Add sudo support. Omit if you don't need to install software after connecting.
+    && apt-get update \
+    && apt-get install -y sudo \
+    && echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
+    && chmod 0440 /etc/sudoers.d/$USERNAME \
+    && export PATH='/home/jovyan/.local/bin'
+    
 # Download and install Quarto
+USER root
 RUN apt-get update && apt-get install -y --no-install-recommends \
     pandoc \
     curl \
@@ -28,3 +45,5 @@ COPY requirements.txt .
 # Update pip and install Python package dependencies
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
+
+USER $USERNAME

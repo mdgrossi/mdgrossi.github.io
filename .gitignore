@@ -4,3 +4,6 @@ content/research_files/
 index_files/
 
 /.quarto/
+
+.devcontainer
+content/.DS_Store
