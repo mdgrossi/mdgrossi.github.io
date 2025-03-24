@@ -16,7 +16,7 @@ jobs:
         submodules: 'true'
 
     - name: Support for R systemfonts package
-      uses: sudo apt -y install libfontconfig1-dev
+      run: sudo apt -y install libfontconfig1-dev
     
     - name: Set up R (needed for Rmd)
       uses: r-lib/actions/setup-r@v2
