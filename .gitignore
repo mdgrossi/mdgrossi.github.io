@@ -2,7 +2,7 @@
 _site/*
 content/research_files/
 index_files/
-
+.DS_Store
 /.quarto/
 
 .devcontainer
