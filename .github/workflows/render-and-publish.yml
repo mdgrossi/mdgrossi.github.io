@@ -16,7 +16,7 @@ jobs:
         submodules: 'true'
 
     - name: Update apt-get
-      run: apt-get update
+      run: sudo apt-get update
     
     - name: Support for R systemfonts package
       run: sudo apt -y install libfontconfig1-dev libcurl4-openssl-dev librsvg2-dev
