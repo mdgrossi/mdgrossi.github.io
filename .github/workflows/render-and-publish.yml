@@ -19,7 +19,7 @@ jobs:
       run: sudo apt-get update
     
     - name: Support for R systemfonts package
-      run: sudo apt-get -y install libfontconfig1-dev libcairo2-dev libharfbuzz-dev libfribidi-dev
+      run: sudo apt-get -y install libfontconfig1-dev libcairo2-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev
       # libcurl4-openssl-dev librsvg2-dev libudunits2-dev libmagick++-dev libxslt1-dev libharfbuzz-dev libpoppler-cpp-dev
     
     - name: Set up R (needed for Rmd)
