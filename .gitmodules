@@ -1,5 +1,1 @@
 
-[submodule "resume"]
-	path = content/resume
-	url = https://github.com/mdgrossi/resume-private-sector.git
-	branch = website
