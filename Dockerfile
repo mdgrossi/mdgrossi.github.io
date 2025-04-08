@@ -30,7 +30,7 @@ RUN groupadd --gid $USER_GID $USERNAME \
     
 # Download and install Quarto
 USER root
-RUN apt-get update && apt-get install -y --no-install-recommends \
+RUN apt-get install -y --no-install-recommends \
     pandoc \
     curl \
     gdebi-core \
