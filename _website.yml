@@ -37,7 +37,7 @@ website:
         text: Talks
       - href: content/teaching.qmd
         text: Teaching
-      - href: https://mdgrossi.github.io/resume/
+      - href: content/resume/index.qmd
         text: R&egrave;sum&egrave;
       - href: content/Grossi_mCV.pdf
         text: CV
