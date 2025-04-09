@@ -27,7 +27,7 @@ I am a **data scientist** with the [NOAA Fisheries](https://www.fisheries.noaa.g
 
 I also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of FAIR data principles (**f**indable, **a**ccessible, **i**nteroperable, **r**eusable) and [open science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries){target="_blank"}, I serve on the SEFSC regional data governance team and participated in the 2024 [NMFS OpenScapes Mentor](https://nmfs-openscapes.github.io/){target="_blank"} program.
 
-A longer autobiographical narrative, for the inquisitive mind, can be perused [here](bio.qmd), and my professional background and experiences are summarized in my [r&egrave;sum&egrave](content/resume/index.qmd) and [curriculum vit&aelig;](content/Grossi_mCV.pdf).
+A longer autobiographical narrative, for the inquisitive mind, can be perused [here](bio.qmd), and my professional background and experiences are summarized in my [r&egrave;sum&egrave;](content/resume/index.qmd) and [curriculum vit&aelig;](content/Grossi_mCV.pdf).
 
 #### {{< iconify ic baseline-interests >}} Interests
 
