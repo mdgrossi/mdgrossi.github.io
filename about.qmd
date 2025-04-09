@@ -27,60 +27,7 @@ I am a **data scientist** with the [NOAA Fisheries](https://www.fisheries.noaa.g
 
 I also facilitate cloud migration, transition planning, and data curation and governance initiatives for the SEFSC and represent NOAA Fisheries in the NOAA Artificial Intelligence Working Group. As a strong proponent of FAIR data principles (**f**indable, **a**ccessible, **i**nteroperable, **r**eusable) and [open science](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries){target="_blank"}, I serve on the SEFSC regional data governance team and participated in the 2024 [NMFS OpenScapes Mentor](https://nmfs-openscapes.github.io/){target="_blank"} program.
 
-<!-- My first programming language is **R**, but nowadays I gravitate to **Python** due to its widespread popularity within the ML community. If a task seems automatable, I like to find a way. I prefer **LaTeX** over common word processing software any day. After years of using **Jupyter Notebooks** for writing Python code and documentating workflows, I was recently introduced to **Quarto**, which is quickly becoming my go-to publishing system. -->
-
-A longer autobiographical narrative, for the inquisitive mind, can be perused [here](bio.qmd).
-
-#### {{< iconify solar programming-outline >}} Technical Skills
-
-:::: {layout-ncol="3"}
-:::{}
-{{< iconify logos python >}} [Python](https://github.com/mdgrossi/code-samples/tree/master/python_examples) <br>
-{{< iconify logos jupyter >}} [Jupyter](https://github.com/mdgrossi/code-samples/blob/master/python_examples/singularSpectrumAnalysis.ipynb) <br>
-{{< iconify mdi language-r >}} [R](https://github.com/mdgrossi/code-samples/tree/master/r_examples) <br>
-{{< iconify devicon rstudio >}} RStudio <br>
-:::
-:::{}
-{{< iconify devicon matlab >}} MATLAB* <br>
-{{< iconify skill-icons docker >}} [Docker](https://github.com/mdgrossi/docker-demos) <br>
-{{< iconify skill-icons latex-dark >}} [LaTeX](https://github.com/mdgrossi/code-samples/tree/master/latex_examples) <br>
-{{< iconify mdi github >}} [GitHub](https://github.com/mdgrossi) <br>
-:::
-:::{}
-- UNIX*
-- Machine Learning
-- Quarto
-:::
-::::
-
-*Indicates working knowledge. Not an expert by any means.
-
-#### {{< iconify zondicons education >}} Education
-
-<!-- {{< iconify fa university >}} Ph.D. Meteorology and Physical Oceanography, University of Miami
-
-{{< iconify zondicons education >}} M.S. Oceanography, University of Delaware
-
-{{< iconify zondicons education >}} B.S. Physical Oceanography with minor in Meteorology, Florida Institute of Technology -->
-
-- **Ph.D.** Meteorology and Physical Oceanography, University of Miami <br>
-- **M.S.** Oceanography, University of Delaware <br>
-- **B.S.** Physical Oceanography with minor in Meteorology, Florida Institute of Technology
-
-<!-- #### {{< iconify ic baseline-work >}} Experience
-
-- **Data Scientist** | 2023-present <br>
-NOAA Southeast Fisheries Science Center
-- **Uncrewed Systems Data Coordinator** | 2021-2023 <br>
-NOAA National Centers for Environmental Information
-- **Research Assistant** | 2016-2021 <br>
-University of Miami Rosenstiel School of Marine and Atmospheric Science
-- **Research Associate** | 2014-2016 <br>
-University of Massachusetts Dartmouth School for Marine Science and Technology /
-Ocean Observation Laboratory
-- **Research Assistant** | 2008-2010 <br>
-University of Delaware /
-Oceanography, Remote Sensing, and Biogeography Lab -->
+A longer autobiographical narrative, for the inquisitive mind, can be perused [here](bio.qmd), and my professional background and experiences are summarized in my [r&egrave;sum&egrave](content/resume/index.qmd) and [curriculum vit&aelig;](content/Grossi_mCV.pdf).
 
 #### {{< iconify ic baseline-interests >}} Interests
 
