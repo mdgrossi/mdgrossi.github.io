@@ -1,0 +1,44 @@
+website:
+  title: "MDG"
+  page-footer:
+    background: "#F8F8FF"
+    left: "&copy; 2025, Matthew D. Grossi"
+    right: This page is built with [Quarto](https://quarto.org/).
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Research
+        href: content/research.qmd
+        menu:
+          - text: Evaluation of RTOFS
+            href: content/research/rtofs.qmd
+          - text: NPQ of phytoplankton
+            href: content/research/npq.qmd
+          - text: Density prediction
+            href: content/research/density-prediction.qmd
+          - text: Climate patterns
+            href: content/research/climate-patterns.qmd
+          - text: Trajectory prediction
+            href: content/research/trajectory-prediction.qmd
+      - text: Side Projects
+        href: content/projects.qmd
+        menu:
+          - text: Local Climatologies and Records
+            href: https://mdgrossi.github.io/climatology
+          - text: Public School Performance
+            href: https://github.com/mdgrossi/schools
+          - text: COVID-19 Cases
+            href: https://mdgrossi.github.io/covid19
+      - href: content/talks.qmd
+        text: Talks
+      - href: content/teaching.qmd
+        text: Teaching
+      - href: content/resume/index.qmd
+        text: R&egrave;sum&egrave;
+      - href: content/Grossi_mCV.pdf
+        text: CV
+    
