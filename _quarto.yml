@@ -4,7 +4,7 @@ project:
     port: 4200
 
 website:
-  title: "Matt Grossi"
+  title: "MDG"
   page-footer:
     background: "#F8F8FF"
     left: "&copy; 2025, Matthew D. Grossi"
@@ -42,7 +42,7 @@ website:
         text: Talks
       - href: content/teaching.qmd
         text: Teaching
-      - href: https://mdgrossi.github.io/resume-private-sector/
+      - href: https://mdgrossi.github.io/resume/
         text: R&egrave;sum&egrave;
       - href: content/Grossi_mCV.pdf
         text: CV
