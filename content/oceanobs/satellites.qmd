@@ -1,0 +1,19 @@
+---
+title: Satellite Remote Sensing
+description: "Measures: sea surface temperature, ocean color, wind speed, sea surface height anomalies, and more"
+image: "../../images/satellite-chlorophyll.jpg"
+---
+
+![Ocean color, a proxy for chlorophyll concentration, can be remotely sensed from space using instruments aboard satellites.](../../images/satellite-chlorophyll.jpg){fig-alt="Salellite, seen from space, remotely sensing ocean color (chlorophyll)"}
+
+## About the Instrument
+
+Somewhat paradoxically, much of what we know about the world's ocean comes from observations made from space. The advent of satellite remote sensing -- named because the Earth is sensed remotely, as opposed to directly, from satellites orbiting the planet -- have given oceanographers unprecedented amounts of information. From their vantage point far above the Earth's surface, satellites can "see" wide spatial areas at a time, and because of the speed at which they must move in order to maintain orbit, they often able to sense the entire planet every day.
+
+Many ocean properties are routinely observed from space. Among them are water temperature, sea surface height, ocean color (a proxy for productivity), and salinity.
+
+The most significant limitation of remote sensing platforms is that they are only "see" a thin layer of the ocean. This is because they are optical instruments, which means they can only see as far as light penetrates below the surface. As any diver will attest to, in most of the ocean, this is only a few meters at best. Meanwhile, the average ocean depth is 4 kilometers, or 4000 meters. Despite this limitation, satellites are among the most popular sources of ocean information and arguably produce more data than any other ocean platform.
+
+## Application
+
+As part of my [Master's thesis research](../research/density-prediction.qmd) I downloaded and processed 10 different satellite data sets for a ten-year period: surface wind speed (SeaWinds) from QuikSCAT; sea surface height anomalies from Jason-1; and sea surface temperature, chlorophyll a concentrations, and water-leaving radiance at 412, 443, 488, 531, 551, and 667 nm from MODIS-Aqua. All of these data had to be quality-controlled, filtered, and interpolate onto a common spatiotemporal grid. This allowed them to be analyzed together with subsurface density profiles from [Argo floats](argo.qmd).

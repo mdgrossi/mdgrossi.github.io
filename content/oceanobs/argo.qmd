@@ -1,0 +1,17 @@
+---
+title: Argo Floats
+description: "Measures: temperature, salinity, and sometimes biochemistry down to 2000 meters"
+image: "../../images/argo_float.jpg"
+---
+
+!["Argo float being deployed off a ship.](../../images/argo_float.jpg){fig-alt="Argo float deployed off a ship."}
+
+## About the Instrument
+
+Argo floats are autonomous instruments that float around in the ocean while collecting measurements of temperature and salinity at different depths in the water column, called profiles. They are essentially [gliders](gliders.qmd) without wings. The float sinks from the surface to depths down to 2000 meters (though some newer models can go even deeper), measuring temperature, salinity, and sometimes other ocean properties as they go. They then drift at depth for a few days before ascending to the surface (again measuring as they go) where they make a satellite phone call to send their data back to land. Dive, drift, ascend, call home, repeat.
+
+Argo floats have been in operation throughout the open ocean since the late 1990s and have provided over one million profiles during this time. Before these floats the only way to get such measurements was with ships, scientists, and lots of money.
+
+## Application
+​
+I used these temperature and salinity profiles for my [Master's thesis](../research/density-prediction.qmd) research which required processing, quality controlling, filtering, and analyzing the global data set. This was my first experience working with large, complex data. Interestingly, the size of this data set nearly doubled in the decade that followed.

@@ -1,0 +1,24 @@
+---
+title: "High-Frequency Radar"
+details: "Measures: surface currents, wave height"
+image: "../../images/mvco.jpg"
+---
+
+![High-frequency (HF) radar antennas sit atop sand dunes along the shoreline of Martha's Vineyard, MA.](../../images/mvco.jpg){fig-alt="High-frequency radar antenna on sand dunes of Martha's Vineyard"}
+
+## About the Instrument
+
+High-frequency (HF) radar measures coastal surface currents by utilizing the Doppler Effect, the same way that the police monitor one's speed on the highway. A coastal ocean dynamics application radar (CODAR) unit consists of a signal transmitter, a receiver, one or two antennae, and a computer to operate the system and process the incoming data. The transmitter emits a radio pulse, which travels out over the water before being reflected back by waves. The reflected signal is received by the unit and, using the time delay and the known information about the wave field (period and frequency), the underlying surface current can be estimated.
+
+By pairing two or more nearby units with overlapping spatial coverage, the current direction can also be estimated using basic trigonometry and hourly maps of surface currents can be generated. Data such as these have any applications. The United States Coast Guard, for example, relies heavily on these maps when strategizing search and rescue operations.
+
+## Application
+
+As a Research Associate at the University of Massachusetts Dartmouth School for Marine Science and Technology (SMAST), I was responsible for maintaining and operating four regional long-range (~20 mile offshore range) CODAR units throughout southeastern New England, all a part of a larger regional network of radars spanning from Cape Cod, MA to Cape Hatteras, NC, operated under the auspices of the Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS).
+
+I completed company training at CODAR Ocean Sensors, Inc. in Mountain View, CA in early 2015. During my tenure at SMAST, I overhauled and upgraded a unit that had been problematic for many years and had been completely offline for several months prior to my arrival. Two other notoriously problematic sites were also repaired and the fourth site upgraded in order to make OCEANOL's northern site completely operational and reliable once again, which was necessary for MARACOOS to maintain and surpass its operational goal of having 80% of all of its units running 80% of the time.
+
+When the CODAR program director expressed an interest in extending the network beyond the existing northernmost site in lower Cape Cod, I coordinated with our contact at the National Parks Service to identify possible new locations along the Cape Cod National Seashore that met the technical criteria. We performed a series of tests using a temporary set up at a couple of identified locales. Today, the Cape Cod network extends to Provincetown, MA.
+
+<!-- 
+I also completed a comprehensive documentation of OCEANOL's CODAR data archives and oversaw the first upgrade of the lab's CODAR data combine workstation, enabling us once again retrieve data from the remote sites, process the data, and generate surface current maps. -->

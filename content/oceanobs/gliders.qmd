@@ -1,0 +1,23 @@
+---
+title: Autonomous Underwater Vehicles (robots)
+description: "Measures: conductivity, temperature, fluorescence, dissolved oxygen, and more"
+image: ../../images/glider.jpg
+---
+
+![Glider sits on its card on a lab bench wating to be ballasted prior to ocean deployment.](../../images/glider.jpg){fig-alt="Glider sitting its cart on a lab bench"}
+
+## About the Instrument
+
+Robots always pique interest. Of course, robots are intended to make human lives easier or to carry out tasks that are altogether impossible for humans to accomplish. Underwater robots go where humans cannot, cost a fraction of what it costs to send humans to sea, and take measurements much faster than humans can. Unlike human scientists, underwater robots do not need to stop to eat, do not need to sleep, and do not get seasick!
+
+Pictured above is a low-powered Slocum electric autonomous underwater vehicle (AUV). It "glides" through the water column in a saw-tooth pattern without any artificial propulsion. It dives by drawing water into the nose, thereby decreasing its buoyancy, and its wings provide it forward momentum. (Without the wings it would sink straight down, like Argo floats.) To resurface, it simply increases its buoyancy by extracting the water. It moves at a whopping speed of less than 1 mph and can remain at sea between 30 and 90 days, depending on the type of batteries onboard.
+
+These gliders can be thought of as oceanographic pickup trucks: the glider itself is merely a vehicle that carries an assortment of sensors with it. The baseline model contains a CTD, fluorometer for measuring light backscatter, and a dissolved oxygen sensor, but a glider can be outfitted with any number of additional sensors provided they are small enough, light enough, and can operate on low power.
+
+## Application
+
+I was first trained to work on and operate Slocum gliders in 2009 by Teledyne-Webb Research, the manufacturing company in Falmouth, MA. I have since completed two other trainings at Rutgers University Center for Ocean Observing Leadership. At the University of Massachusetts School for Marine Science and Technology (SMAST), I was responsible for overseeing the maintenance and operation of the Ocean Observation Laboratory's (OCEANOL) glider named Blue (after blue whales). This involved carefully ballasting the glider before missions, conducting pre-mission inspections and testing, mission planning, deployment, mission monitoring, recovery, post-mission technical debriefings, and data preprocessing.
+
+During my tenure at SMAST, OCEANOL exceeded its operational goal of one 30-day glider mission per 12-month period for the first time since acquiring the glider. This demonstrated a matured dependability as a MARACOOS participant and put the lab in a position to work on establishing the technical infrastructure for piloting the glider in-house. On the third successful mission I trained a new lab technician who took over when I returned to graduate school. Blue would soon complete its first three-month mission a few months later.
+
+Given the interest in the glider by nearly every visiting group, I created a [fact sheet](../oceanol_fact_sheets_redacted_watermark.pdf) to answer many frequently asked questions in the event I was not able to provide an in-person demonstration or if Blue was at sea. I also programmed a demonstration mission that made the glider dive and resurface once in the School's 90,000 gallon optics and acoustics test tank, a feat that was not nearly as easy to accomplish as I had hoped, given the size of the tank. Throughout all of this, I carefully documented my methods, best practices, and recommendations for glider operations in a number of internal technical reports in order to ensure a smooth transfer of knowledge.

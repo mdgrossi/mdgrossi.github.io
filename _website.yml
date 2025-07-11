@@ -7,10 +7,25 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Ocean Observing
+        href: content/oceanobs.qmd
+        menu:
+          - text: Autonomous Underwater Gliders
+            href: content/oceanobs/gliders.qmd
+          - text: Drifters
+            href: content/oceanobs/drifters.qmd
+          - text: High-frequency Radar
+            href: content/oceanobs/hfradar.qmd
+          - text: Argo Floats
+            href: content/oceanobs/argo.qmd
+          - text: CTD
+            href: content/oceanobs/ctd.qmd
+          - text: Remote Sensing
+            href: content/oceanobs/satellites.qmd
       - text: Research
         href: content/research.qmd
         menu:

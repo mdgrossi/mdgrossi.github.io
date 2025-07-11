@@ -1,0 +1,11 @@
+---
+title: "Ocean Observing: Tools and Toys"
+
+listing:
+  - id: oceanobs
+    contents: oceanobs
+    fields: [image, title, subtitle]
+    type: grid
+---
+
+Some of the tools of the trade, or platforms, used for ocean observation.

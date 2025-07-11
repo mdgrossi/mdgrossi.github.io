@@ -1,0 +1,21 @@
+---
+title: "Drifters"
+description: "Measures: surface currents"
+image: ../../images/carthe_drifter_glamour_landscape.JPG
+---
+
+![Drifter deployed from a small boat in the Gulf of Mexico.](../../images/carthe_drifter_glamour_landscape.jpg){fig-alt="Drifter being deployed from a small boat"}
+
+## About the Instrument
+
+Drifters are perhaps the simplest of all oceanographic instruments. They literally go with the flow. Toss them into the ocean, follow them with GPS, and keep track of where the surface currents carry floating objects.
+
+I was privileged to join in 2016 the [Consortium for Advanced Research on Transport of Hydrocarbon in the Environment](http://carthe.org/) (CARTHE), a team of researchers that spent a decade studying the dynamics of the Gulf of Mexico in the wake of the 2010 Deepwater Horizon oil spill. An important part of the scientific endeavor was to develop a new compact and biodegradable drifter that can be easily deployed in large quantities with a minimal environmental footprint. As simple as these instruments are, designing them is not so straightforward, as explained in this [fun video](https://vimeo.com/213850498).
+
+## Application
+
+In spring 2017, I participated in a field campaign called [Submesoscale Processes and Lagrangian Analysis on the Shelf](http://carthe.org/splash/) (SPLASH) near the Louisiana Bight that studied the physical mechanisms by which material gets transported from offshore to coastal regions. In one of the largest coordinated drifter deployments ever conducted, we strategically deployed, recovered, and redeployed 500 of these drifters several times over the course of 3-4 weeks and ended up with more than 2.3 million drifter data points from this experiment alone. This added to similar quantities of data from previous field campaigns, bringing the total up to roughly 19 million data points.
+
+My [doctoral dissertation project](../research/trajectory-prediction.qmd) stemmed from the reality that it is impossible for a team of scientists, let alone an individual graduate student, to manually process and analyze such large quantities of data efficiently and in the short time windows (usually a few years at a time) in which research operates. Following the lead of successful, well-known companies such as Facebook, Amazon, Apple, and Google that process enormous -- and ever increasing -- quantities of user data in near real time using machine learning and artificial intelligence, I explored the use of machine learning for analyzing ocean data.
+
+Machine learning and artificial intelligence is surprisingly new for ocean scientists because these methods requiring having lots of data. Up until very recently, oceanographers simply did not have enough data available to them. The CARTHE drifter data presented an exciting opportunity to test new data-driven modeling techniques on oceanographic problems. My dissertation research did just that.
