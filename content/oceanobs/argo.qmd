@@ -1,6 +1,6 @@
 ---
 title: Argo Floats
-description: "Measures: temperature, salinity, and sometimes biochemistry down to 2000 meters"
+description: "Measures: temperature, salinity, and sometimes biochemistry down to 2000+ meters"
 image: "../../images/argo_float.jpg"
 ---
 
@@ -8,9 +8,9 @@ image: "../../images/argo_float.jpg"
 
 ## About the Instrument
 
-Argo floats are autonomous instruments that float around in the ocean while collecting measurements of temperature and salinity at different depths in the water column, called profiles. They are essentially [gliders](gliders.qmd) without wings. The float sinks from the surface to depths down to 2000 meters (though some newer models can go even deeper), measuring temperature, salinity, and sometimes other ocean properties as they go. They then drift at depth for a few days before ascending to the surface (again measuring as they go) where they make a satellite phone call to send their data back to land. Dive, drift, ascend, call home, repeat.
+Argo floats are autonomous instruments that float around in the ocean while collecting measurements of temperature and salinity at different depths in the water column, called profiles. They are essentially [gliders](gliders.qmd) without wings. The float sinks from the surface to depths down to 2000 meters, though nowadays many go even deeper. As they dive to the bottom, they measure temperature, salinity, and other ocean properties throughout the water column. They then drift at depth for a few days before ascending back to the surface (again measuring as they go) where they make a satellite phone call to send their data back to land. Dive, drift, ascend, call home, repeat.
 
-Argo floats have been in operation throughout the open ocean since the late 1990s and have provided over one million profiles during this time. Before these floats the only way to get such measurements was with ships, scientists, and lots of money.
+Argo floats have been in operation throughout the open ocean since the late 1990s and have provided over one million profiles during this time. Before these floats were developed, the only way to get such measurements was with ships, scientists, and lots of money.
 
 ## Application
 ​

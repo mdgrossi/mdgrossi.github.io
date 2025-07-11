@@ -8,7 +8,7 @@ image: "../../images/satellite-chlorophyll.jpg"
 
 ## About the Instrument
 
-Somewhat paradoxically, much of what we know about the world's ocean comes from observations made from space. The advent of satellite remote sensing -- named because the Earth is sensed remotely, as opposed to directly, from satellites orbiting the planet -- have given oceanographers unprecedented amounts of information. From their vantage point far above the Earth's surface, satellites can "see" wide spatial areas at a time, and because of the speed at which they must move in order to maintain orbit, they often able to sense the entire planet every day.
+Somewhat paradoxically, much of what we know about the world's ocean comes from observations made from space. The advent of satellite remote sensing -- named because the Earth is sensed remotely, as opposed to directly, from satellites orbiting the planet -- have given oceanographers unprecedented amounts of information. From their vantage point far above the Earth's surface, satellites can "see" wide spatial areas at a time, and because of the speed at which they must move in order to maintain orbit, they are often able to sense the entire planet every day.
 
 Many ocean properties are routinely observed from space. Among them are water temperature, sea surface height, ocean color (a proxy for productivity), and salinity.
 

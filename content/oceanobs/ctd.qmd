@@ -4,14 +4,14 @@ desciption: "Measures: conductivity (salinity), temperature, depth"
 image: "../../images/sharp_ctd.jpg"
 ---
 
-![CTD being deployed off the University of Delaware's R/V *Hugh R. Sharp*](../../images/sharp_ctd.jpg){fig-alt="CTD being deployed off the side of a ship" width=50%}
+![CTD being deployed off the University of Delaware's R/V *Hugh R. Sharp*](../../images/sharp_ctd.jpg){fig-alt="CTD being deployed off the side of a ship" width=50% fig-align="left"}
 
 ## About the Instrument
 
-Conductivity-temperature-depth (CTD) profilers are the workhorses of oceanography and are often the first instrument physical oceanographers learn to use. No physical oceanographer ever leaves shore without one! Generally the sensors are attached to a rosette (shown above, though surrounded by Niskin water sampling bottles) which is lowered into the ocean from a ship. It's amazing how much physical oceanography -- and biological and chemical oceanography as well -- can be learned from these three simple measurements.
+Conductivity-temperature-depth (CTD) profilers are the workhorses of oceanography and are often the first instrument physical oceanographers learn to use. No physical oceanographer ever leaves shore without one! Generally the sensors are attached to a rosette (shown above, though surrounded by Niskin water sampling bottles) which is lowered into the ocean from a ship. A remarkable amount of physical oceanography -- and biological and chemical oceanography as well -- can be learned from these three simple measurements.
 
 ## Application
 ​
 In addition to conducting hundreds of shipboard CTD profiles over the years, I have also used them to calibrate [glider](gliders.qmd) CTD sensors, which are difficult and expensive to get factory-calibrated on a regular basis. Because they are mounted through the hull of the glider, one must either carefully remove the instrument, thereby jeopardizing the water seal, or else ship the entire glider out, which is obviously very expensive if not altogether impractical.
 
-The Ocean Observation Laboratory in which I worked engineered a rig that attaches an external CTD cage to the side of a glider. This CTD was factory calibrated regularly and was assumed to provide the truth. We then developed a method of taking simultaneous CTD measurements with this CTD and the glider CTD in a saltwater acoustic test tank. We carried out this procedure immediately before and after every glider deployment and the discrepancies between these two sets of measurements were used to adjust the glider observations during post-mission data processing.
+The Ocean Observation Laboratory in which I worked engineered a rig that attaches an external CTD cage to the side of a glider. This CTD was factory calibrated regularly and was assumed to provide the truth. We then developed a method of taking simultaneous CTD measurements with this CTD and the glider CTD in a saltwater acoustic test tank. We carried out this procedure immediately before and after every glider deployment and the discrepancies between these two sets of measurements were used to correct the glider observations during post-mission data processing.
