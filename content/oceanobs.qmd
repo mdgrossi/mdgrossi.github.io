@@ -4,7 +4,7 @@ title: "Ocean Observing: Tools and Toys"
 listing:
   - id: oceanobs
     contents: oceanobs
-    fields: [image, title, subtitle]
+    fields: [image, title, description]
     type: grid
 ---
 

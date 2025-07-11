@@ -1,7 +1,7 @@
 ---
 title: "Drifters"
 description: "Measures: surface currents"
-image: ../../images/carthe_drifter_glamour_landscape.JPG
+image: "../../images/carthe_drifter_glamour_landscape.jpg"
 ---
 
 ![Drifter deployed from a small boat in the Gulf of Mexico.](../../images/carthe_drifter_glamour_landscape.jpg){fig-alt="Drifter being deployed from a small boat"}
